@@ -59,6 +59,5 @@ bower.json
 /node_modules
 /yarn-error.log
 .idea/
-/.idea
-/.idea/*
+
 .byebug_history
